@@ -46,13 +46,7 @@ I enjoy creating apps that solve real problems, integrating AI and modern tech s
 
 ---
 
-## 📈 GitHub Stats
-![Upeksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=upeksha-c&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=upeksha-c&layout=compact&theme=radical)
-
----
-
 ## Contact Me 📬
-- Email: your-email@example.com  
+- Email: upekshachiranthi.com  
 - LinkedIn: [Upeksha Godage](https://www.linkedin.com/in/upeksha-godage/)
 
