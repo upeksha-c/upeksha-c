@@ -55,9 +55,18 @@ An AI-powered learning platform for students and teachers to manage assignments,
 - A personal fitness tracking app.  
 - **Repo:** [GitHub](https://github.com/upeksha-c/BurnTrack)
 
-### New Budget Tracker
-- A mobile app to manage budgets and expenses.  
-- **Repo:** [GitHub](https://github.com/GrpMobileApp/NewBudgetTracker)
+---
+
+### 💰 New Budget Tracker  
+A mobile budget planning app that helps users create monthly budgets, track expenses, and visualize spending habits. It supports social login, real-time data sync, and overspending alerts.  
+- Create and manage monthly budgets  
+- Track income and expenses  
+- Pie and bar chart summaries  
+- Social login (Email, Google, Facebook)  
+- Overspending notifications  
+
+**Tech:** Kotlin, Jetpack Compose, Firebase Auth, Firestore, MVVM, Material 3  
+**Repo:** https://github.com/GrpMobileApp/NewBudgetTracker 
 
 ---
 ## 🎬 Cinescope – Movie App  
@@ -83,6 +92,6 @@ A full-stack web application for movie lovers with showtimes, reviews, groups, a
 ---
 
 ## Contact Me 📬
-- Email: upekshachiranthi.com  
+- Email: upekshachiranthi@gmail.com  
 - LinkedIn: [Upeksha Godage](https://www.linkedin.com/in/upeksha-godage/)
 
