@@ -42,7 +42,8 @@ A full-stack web application that helps job seekers track applications, manage s
 An AI-powered learning platform for students and teachers to manage assignments, exams, and feedback.  
 - AI-generated personalized feedback  
 - Timed exams with focus tracking  
-- Teacher dashboard for managing students  
+- Teacher dashboard to manage students, exams, and assignments
+- Manual and AI-assisted question creation, with editing and deletion 
 - Export AI feedback as text files  
 - Secure storage with Supabase  
 
